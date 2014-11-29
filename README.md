@@ -1,4 +1,4 @@
-YMT_111_AlgoritmaveProgramlama
+YMT 111 Algoritma ve Programlama I
 ==============================
 
 YMT 111 Dersi Projeleri
