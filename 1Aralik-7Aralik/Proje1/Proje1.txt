@@ -1,0 +1,1 @@
+2 den itibaren ilk 30 asal sayıyı bulup ekrana yazan bir C programı yazınız

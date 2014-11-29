@@ -1,0 +1,1 @@
+ Dışarıdan alınan 20 sayı arasındaki en büyük sayıyı bulup ekrana yazan bir C programı yazınız.

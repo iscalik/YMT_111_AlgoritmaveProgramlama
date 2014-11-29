@@ -1,0 +1,2 @@
+Çarpma operatörü kullanmadan dışarıdan alınan A ve B değerleri ile çarpma işlemi yapan bir C programı yazınız. 
+Not: C kodu içerisinde  Sonuc=A*B; şeklinde bir işlem yapılmayacaktır.

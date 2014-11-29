@@ -1,0 +1,1 @@
+Girilen Bir kelimenin kaç tane harften oluştuğunu bulan bir fonksiyon yazınız.

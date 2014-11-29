@@ -1,0 +1,1 @@
+Girilen Bir Cümledeki Kelime Sayısını Bulan Program fonksiyon yazınız.

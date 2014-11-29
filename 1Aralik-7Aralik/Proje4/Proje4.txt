@@ -1,0 +1,1 @@
+Girilen Bir kelimeyi tersten yazan bir C programı yazınız.
